@@ -8,3 +8,24 @@ This is the first project, where I decided to design my own enclosure and 3d pri
 
 ---
 
+<img src="https://github.com/ArwedMeinert/Light-Alarm-Clock-/blob/main/Day-Light-Alarm-Clock/IMG_20230315_211313_312.jpg" alt= "Picture frame with the control box" width="50%" height="50%" >
+
+I plan to replace the picture in the pictureframe (statistics of one of the everestings i've done) with a proper diffusion layer. I might need to increse the distance between the LED's and the diffusion layer for a proper effect.
+
+---
+
+<img src="https://github.com/ArwedMeinert/Light-Alarm-Clock-/blob/main/Day-Light-Alarm-Clock/IMG_20230315_211342_956.jpg" alt= "Picture frame with the control box" width="50%" height="50%" >
+
+The OLED display shows the current time and, that no alarm is currently set. The light can be turned on manually using the button and dimmed with the potentiometer below the button.
+
+---
+
+<img src="https://github.com/ArwedMeinert/Light-Alarm-Clock-/blob/main/Day-Light-Alarm-Clock/IMG_20230315_211313_312.jpg" alt= "Picture frame with the control box" width="50%" height="50%" >
+
+The LEDs don't get diffused properly because of the small distance betwenn the LED's and the "diffusion layer" (a piece of paper).-
+
+---
+
+<img src="https://github.com/ArwedMeinert/Light-Alarm-Clock-/blob/main/Day-Light-Alarm-Clock/IMG_20230315_212840_559.jpg" alt= "Picture frame with the control box" width="50%" height="50%" >
+
+The alarm time gets displayed below the current time on the OLED display.
